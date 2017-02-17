@@ -1,1 +1,1 @@
-<?php header( 'Location: /bot.php' ) ;  ?>
+<?php header( 'Location: /SASE_bot.php' ) ;  ?>
