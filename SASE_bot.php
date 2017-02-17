@@ -24,11 +24,11 @@ if (!is_null($events['events'])) {
 				},
 				{
 				'type' => 'text',
-				'text' => 'Hi, there"
+				'text' => "Hi, there"
 				},
 				{
 				'type' => 'text',
-				'text' => 'May I help you?"				   
+				'text' => "May I help you?"				   
 				}
 			];
 
