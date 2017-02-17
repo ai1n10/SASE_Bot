@@ -1,3 +1,3 @@
 <?php
-echo "I am a bot";
+echo "Hello, I am a SASE bot";
 ?>
